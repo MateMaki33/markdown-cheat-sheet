@@ -2,7 +2,7 @@
 >By Jose Luis Diaz (Matedeveloop)
 
 <!-- Titulos -->
-# Titulo 1 con deco
+># Titulo 1 con deco
 ## **Titulo 2**
 ### Titulo 3
 #### Titulo 4
