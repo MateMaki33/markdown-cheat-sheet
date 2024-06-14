@@ -77,3 +77,21 @@ $var = $_POST['var'];
 | Jaimito | jaimito@gmail.com | 
 | Mariachi | mariachi@gmail.com | 
 | Florence | florence@gmail.com | 
+
+<!-- Alertas -->
+
+> [!NOTE]
+> Peaso de nota
+
+> [!TIP]
+> Un tip!
+
+> [!IMPORTANT]
+> echa un ojo a esto
+
+> [!WARNING]
+> Ojoooo
+
+> [!CAUTION]
+> Cuidadín
+
